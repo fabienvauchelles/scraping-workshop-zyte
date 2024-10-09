@@ -87,7 +87,7 @@ Clone this repository:
 
 ```shell
 git clone https://github.com/fabienvauchelles/scraping-workshop-zyte.git
-cd scraping-workshop
+cd scraping-workshop-zyte
 ```
 
 
